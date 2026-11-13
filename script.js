@@ -1,6 +1,6 @@
 // ข้อมูลสำหรับแต่ละ LEVEL (รวมข้อความ รหัสผ่าน และรูปภาพ)
 const levels = [
-    { description: "ลองใส่ PASSWORD ดูสิ", password: "PASSWORD", image: "" }, // LEVEL 1 ไม่มีรูปภาพ
+    { description: "ลองใส่ PASSWORD ดูสิ", password: "กรอกรหัสผ่าน", image: "" }, // LEVEL 1 ไม่มีรูปภาพ
     { description: "HERE", password: "311", image: "" }, // LEVEL 2 ไม่มีรูปภาพ
     { description: "", password: "APT.", image: "images/level3.jpg" } // LEVEL 3 มีรูปภาพและรหัสผ่านเป็น APT.
 ];
